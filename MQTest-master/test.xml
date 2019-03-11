@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AmazonTest">
+    <!-- Run SmokeTest test-->
+    <test name="AmazonTest" >
+        <classes>
+            <class name="com.automation.test.SQSTest">
+                <methods>
+                    <include name="testSingleMessage_send_receive" />
+                    <include name="testSingleMessage_send_receive_delay" />
+                    <include name="testSingleMessage_send_receive_delay_without_wait" />
+                    <include name="testSendBatchMessages" />
+                    <include name="testSendMultipleMessages" />
+                    <include name="multi_thread_connection_sending" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

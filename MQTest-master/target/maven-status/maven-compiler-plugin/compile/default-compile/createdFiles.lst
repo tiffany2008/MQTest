@@ -1,0 +1,9 @@
+com\automation\client\QueueBuilder.class
+com\automation\dt\Trie$1.class
+com\automation\dt\Trie$Node.class
+com\automation\util\Comparison.class
+com\automation\util\SubmitMessage.class
+com\automation\client\ClientBuilder.class
+com\automation\client\QueueRule.class
+com\automation\dt\Trie.class
+com\automation\config\ConfigManager.class

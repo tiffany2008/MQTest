@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <appSettings>
+        <add key="endpoint" value="http://localhost:9324" />
+        <add key="region" value="elasticmq" />
+        <add key ="accessKey" value="scottw"/>
+        <add key="secretKey" value="scottw"/>
+    </appSettings>
+</configuration>
