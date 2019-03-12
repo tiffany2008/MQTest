@@ -17,6 +17,9 @@ change the values to your own configuration
 Steps,
 
 1.Start ElasticMQ using "java -jar elasticmq-server-0.13.11.jar"
+
 2.CMD to the project folder,then type "mvn clean install -DskipTests"
+
 3.rename run.bat.txt to run.bat double click on run.bat
+
 test report is located at project SQSTest\target\surefire-reports\index.html
