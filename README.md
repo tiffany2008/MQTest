@@ -1,20 +1,23 @@
-Java Version
+# Purpose
+This is a sample test framework to test Amazon AWS SQS service.
+
+# Java Version
 
 java version "1.8.0_191" Java(TM) SE Runtime Environment (build 1.8.0_191-b12) Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode)
 
-Maven Version Apache Maven 3.6.0
+# Maven Version Apache Maven 3.6.0
 
-AWS java SDK version
+# AWS java SDK version
 
 1.11.509
 
-Change test configuration.
+# Change test configuration.
 
 open configuration.xml file
 
 change the values to your own configuration
 
-Steps,
+# Steps,
 
 1.Start ElasticMQ using "java -jar elasticmq-server-0.13.11.jar"
 
